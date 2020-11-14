@@ -9,16 +9,16 @@
 2.
 - Nhóm câu hỏi 1: 
   		A = b) 
-  		B = f)
+  		B = d)
 - Nhóm câu hỏi 2: 
   		C = d)
 - Nhóm câu hỏi 3: 
-  		D = b)
+  		D = c)
   		E = e)
 3.
 - Nhóm câu hỏi 1: 
 		A = b)
-		B = d)
+		B = b)
 - Nhóm câu hỏi 2: 
 		C = d)
 - Nhóm câu hỏi 3: 
@@ -29,8 +29,8 @@
 		A = b)
 		B = a)
 - Nhóm câu hỏi 2:
-		C= d)
-		D = d)
+		C = d)
+		D = c)
 		E = b)
 5.
 - Nhóm câu hỏi 1:
@@ -39,5 +39,5 @@
 - Nhóm câu hỏi 2:
 		C = a)
 		D = b)
-- Nhóm câu hỏi 3: a)
+- Nhóm câu hỏi 3: d)
 				
